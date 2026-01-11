@@ -2,6 +2,7 @@
 
 ## Overview
 Analyzes whether early game achievements cause players to stay engaged, or if engaged players simply achieve more. Uses causal inference methods to separate correlation from causation.
+![Causal Analysis Results](causal_analysis_results.png)
 
 ### Dataset
 
