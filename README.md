@@ -5,9 +5,9 @@ Analyzes whether early game achievements cause players to stay engaged, or if en
 
 ### Dataset
 
-Source: Kaggle - "Predict Online Gaming Behavior Dataset"
-Size: 40,034 player records
-Features: Age, playtime, achievements, session frequency, engagement level
+- Source: Kaggle - "Predict Online Gaming Behavior Dataset"
+- Size: 40,034 player records
+- Features: Age, playtime, achievements, session frequency, engagement level
 
 ### Methods
 
