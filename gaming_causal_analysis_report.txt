@@ -1,0 +1,34 @@
+======================================================================
+CAUSAL ANALYSIS REPORT: GAMING USER RETENTION
+======================================================================
+
+SAMPLE STATISTICS
+Total players analyzed: 40,034
+Players with early success: 20,046 (50.1%)
+Overall retention rate: 25.8%
+
+NAIVE COMPARISON (Correlation - May be biased)
+Retention with early success: 26.7%
+Retention without early success: 24.9%
+Naive difference: 1.9 percentage points
+
+CAUSAL ESTIMATE (After controlling for confounders)
+Average Treatment Effect (ATE): 0.016
+
+HETEROGENEOUS TREATMENT EFFECTS
+Mean effect: 0.069
+Std dev: 1.101
+Range: [-6.831, 9.122]
+
+SUBGROUP ANALYSIS
+                                   mean       std  count
+ips_stabilized_weight_segment                           
+Low                            0.074778  1.088958  10009
+Medium                         0.062433  1.091521  10008
+High                           0.058424  1.118934  10008
+Very High                      0.080763  1.103165  10009
+
+CONCLUSION
+Early success shows minimal causal effect on retention.
+Recommendation: Focus on other engagement strategies beyond early wins.
+======================================================================
